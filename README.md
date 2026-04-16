@@ -24,7 +24,8 @@ Currently finishing my Programmer Analist degree and working as an IT intern.
 - JWT Auth
 - Java / Sprint Boot
 - Desing Patterns
-- 
+- Swagger
+  
 ### Database
 - MongoDB
 - MySQL
@@ -34,8 +35,10 @@ Currently finishing my Programmer Analist degree and working as an IT intern.
 - Git
 - Docker
 - Postman
-- Agile / Scrum
+- Agile / Scrum / Trello 
 - CMD Linux / Windows
+- Figma
+- Claude Code
 
 ---
 
