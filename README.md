@@ -16,7 +16,7 @@ Currently finishing my Programmer Analist degree and working as an IT intern.
 - Tailwind CSS
 - HTML / CSS
 - JavaScript / TypeScript
--Angular
+- Angular
 
 ### Backend
 - Node.js / Express
