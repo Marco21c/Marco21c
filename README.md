@@ -12,9 +12,8 @@ Currently finishing my Programmer Analist degree and working as an IT intern.
 ## 🚀 Tech Stack
 
 ### Frontend
-- React
-- Tailwind CSS
-- HTML / CSS
+- React / Next
+- Tailwind CSS / Shadcn
 - JavaScript / TypeScript
 - Angular
 
